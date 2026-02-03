@@ -1,6 +1,6 @@
 # Predictive Analytics and Machine Learning using Python
 open code in google colab: 
-[![Open In Colab](https://colab.research.google.com/drive/1Rms6N-Lkno-KqFmKtQfHMHLkit74jLfT?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Rms6N-Lkno-KqFmKtQfHMHLkit74jLfT?usp=sharing)
 ## MSc Data Analytics – Coursework Project
 
 This repository contains coursework completed as part of the **MSc Data Analytics** programme for the module  
