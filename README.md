@@ -1,5 +1,6 @@
 # Predictive Analytics and Machine Learning using Python
-
+open code in google colab: 
+[![Open In Colab](https://colab.research.google.com/drive/1Rms6N-Lkno-KqFmKtQfHMHLkit74jLfT?usp=sharing)
 ## MSc Data Analytics – Coursework Project
 
 This repository contains coursework completed as part of the **MSc Data Analytics** programme for the module  
@@ -57,7 +58,7 @@ The project demonstrates the practical application of machine learning technique
 ---
 
 ## Author
-** jimson james **  
+**jimson james**  
 MSc Data Analytics
 
 
