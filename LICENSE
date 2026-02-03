@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Initial commit: MSc Predictive Analytics & ML coursework"
+git branch -M main
+git remote add origin https://github.com/<your-username>/msc-predictive-analytics-machine-learning.git
+git push -u origin main
